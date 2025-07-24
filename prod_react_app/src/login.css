@@ -1,0 +1,41 @@
+.login_page {
+    background-color: #e0e0e0;
+    min-height: 100vh; /* minimum height of page would be equal to available view-port height */
+    
+  }
+
+.login {
+    margin-top:200px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #f2f2f2;
+    box-shadow:  20px 20px 60px #cecece,
+    -20px -20px 60px #ffffff;
+ }
+
+.py{
+    padding-top: 50px;
+    padding-bottom: 50px;
+ }
+
+.px{
+    padding-right: 50px;
+    padding-left: 50px;
+ }
+
+.row{
+    margin: 0;
+ }
+
+ .password-input-container {
+    position: relative;
+  }
+  
+  .eye-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px; /* Adjust this value to control the distance from the right edge */
+    transform: translateY(-50%);
+  }
+
+  

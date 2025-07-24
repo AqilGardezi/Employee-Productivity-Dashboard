@@ -1,0 +1,14 @@
+
+.tableStyle {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.evenRow {
+  background-color: #f2f2f2; /* Light gray for even rows */
+}
+
+.oddRow {
+  background-color: #ffffff; /* White for odd rows */
+}

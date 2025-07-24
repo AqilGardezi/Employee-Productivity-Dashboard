@@ -1,0 +1,134 @@
+.head{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #398ECB;
+    
+ }
+
+ .headrow{
+   padding-left: 5px;
+   padding-right: 5px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   
+}
+
+.div{
+    background-color: #e0e0e0;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.row{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    
+ }
+
+ .row_select{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+ }
+
+ .col{
+    height: '500px';
+ }
+
+ .btn_logout{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    color: #398ECB;
+ }
+
+ /* .btn_search{
+    min-height: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #0da039;
+ } */
+
+ .card_title{
+    padding-top: 15px;
+ }
+
+
+/* styles.css */
+
+.tableStyle {
+   max-width: 100%;
+   border-collapse: collapse;
+   /* margin-top: 10px; */
+   border: 1px solid #429bbe; /* Overall border for the table */
+ }
+ 
+ .tableStyle th, .tableStyle td {
+   border: 1px solid #ddd; /* Borders for cells */
+   padding: 5px; /* Add padding to cells for better spacing */
+   
+ }
+ 
+ .evenRow {
+   background-color: #f2f2f2; /* Light gray for even rows */
+   font-size: 11px;
+ }
+ 
+ .oddRow {
+   background-color: #ffffff; /* White for odd rows */
+   font-size: 11px;
+ }
+ .column {
+   background-color: #398ECB; /* Light red for column 1 */
+   color: white;
+   font-size: 13px;
+   position: sticky;
+   top: 0;
+ }
+ 
+ .scroll
+ {
+   /* display: flex; */
+   overflow-x: auto;
+   overflow-y: auto; 
+   white-space: nowrap;
+   max-height: 70vh;
+   margin-top: 0;
+ }
+
+
+ .container {
+   flex: 1;
+   /* Other styles for your main content */
+ }
+ 
+ .heading {
+  /* max-width: fit-content; */
+   background-color: #81c6f8;
+   /* padding: 5px; */
+   text-align: center;
+   position: sticky;
+   margin-bottom: 1px;
+   margin-top: 1px;
+   margin-left: 10px;
+   margin-right: 10px;
+ }
+
+ .button {
+  margin-top: 10px; /* Add some space between the heading and the button */
+}
+ 
+
+.timecolumn {
+  background-color: #bcc7ac;
+  /* background-color: #8d8787; */
+  color: black;
+}
+
+
